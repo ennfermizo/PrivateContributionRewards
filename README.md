@@ -1,8 +1,7 @@
-❤️ PrivateContributionRewards
+PrivateContributionRewards
 
-A decentralized fully homomorphic encrypted matchmaking dApp on Ethereum (Sepolia testnet) using Zama’s FHEVM protocol.
-Profiles and preferences are encrypted → matched on-chain → only the final match result is decryptable.
-No data leaks. No exposure of personal information.
+PrivateOpenSourceRewards enables encrypted scoring for open-source projects using Zama’s FHEVM.
+Contributors submit fully private scores, and the total remains confidential until explicitly revealed.
 
 ⚡ Features
 
