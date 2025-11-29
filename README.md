@@ -1,7 +1,7 @@
 PrivateContributionRewards
 
-PrivateOpenSourceRewards enables encrypted scoring for open-source projects using Zama’s FHEVM.
-Contributors submit fully private scores, and the total remains confidential until explicitly revealed.
+PrivateOpenSourceRewards lets contributors submit encrypted scores 🔐 to open-source projects 🌱.
+The total score stays private until the project chooses to reveal it 👀.
 
 ⚡ Features
 
